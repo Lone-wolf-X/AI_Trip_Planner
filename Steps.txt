@@ -1,0 +1,2 @@
+To activate virtual environment first in terminal open command prompt, 
+then run that command {env\Scripts\activate}.
